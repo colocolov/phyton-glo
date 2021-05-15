@@ -1,0 +1,26 @@
+Python активно используется в: 
+	1) сайты и приложения:
+		- Dropbox
+		- Instagram (Django)
+		- Google
+		- Spotify
+		- netflix
+	2) играх:
+		- Battlefield
+		- Sims 4
+		- Mount and Blade
+		- Civilization 4
+	3) софте: 
+		- BitTorrent
+		- GIMP
+		- Anki
+		- Calibre
+	4) тестирование аппаратного обеспечения в компаниях:
+		- Intel
+		- Cisco
+		- Hewlett-Packard
+		- IBM
+	5) создании анимационных фильмов:
+		- Industrial Light & Magic
+		- Pixar
+
