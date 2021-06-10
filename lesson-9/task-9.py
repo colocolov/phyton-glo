@@ -1,4 +1,4 @@
-print('¬‚Â‰ËÚÂ ˜ËÒÎÓ:')
+print('–í–≤–µ–¥–∏—Ç–µ —á–∏—Å–ª–æ:')
 number = int(input())
 
 summa = 0
@@ -8,17 +8,7 @@ while number != 0:
     last_digit = number % 10
     summa = summa + last_digit
     number = number // 10
-    if number == 0:
-        while summa != 0:
-            last_digit = summa % 10
-            total = total + last_digit
-            summa = summa // 10
-            if total > 9:
-                summa = total
-                total = 0
-                while summa != 0:
-                    last_digit = summa % 10
-                    total = total + last_digit
-                    summa = summa // 10
-
-print(total)
+    if number == 0 and summa > 9:
+        number = summa
+        summa = 0
+print('–°—É–º–º–∞ —á–∏—Å–µ–ª', summa)
